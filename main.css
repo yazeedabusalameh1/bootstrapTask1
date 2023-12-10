@@ -1,0 +1,8 @@
+.container-fluid{
+    width: 80%;
+}
+.proudact{
+    background-color: aqua;
+    text-align: center;
+    padding: 10px;
+}
